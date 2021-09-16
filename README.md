@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="/">
+  <a href="https://open.spotify.com/user/95jq4fkiw7l9j4jecvp22fpzc">
     <img title="" alt="" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
     <a href="/">
     <img title="" alt="" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   </a>
-  <a href="/">
+  <a href="https://twitter.com/_eveprice">
     <img title="" alt="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="/">
+  <a href="https://discordapp.com/users/604474810847723530">
     <img title="" alt="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-    <a href="/">
+    <a href="https://t.me/eve_price">
     <img title="" alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
