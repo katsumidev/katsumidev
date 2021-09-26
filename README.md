@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there, I'm <a href="https://github.com/eveprice"> Evelyn </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h3 align="center"> Hi there, I'm <a href="https://github.com/eveprice"> Eve </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/e478861655aaaf4fb7b423c1c3556667/87f5199085ed402b-6a/s540x810/f7d972bc444e24a2b4f7a959bedda119d7c6876f.gifv">
