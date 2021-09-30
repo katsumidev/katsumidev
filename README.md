@@ -26,6 +26,8 @@
   
 Hi! You can call me eve, I'm a non-binary :rainbow_flag: software developer, I LOVE to create new and different things from scratch, that's why I've chosen the development career, tech makes possible to create an infinitude of things, things that help society in every kind of way, since from entertaining to medicine, with technology EVERYTHING is possible ✨
 
+<strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> - Arthur C. Clarke </strong>
+
 ## 💜 Tools that i use & love 
 
 ### Programming languages
