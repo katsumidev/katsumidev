@@ -28,6 +28,8 @@ Hi! You can call me eve, I'm a non-binary :rainbow_flag: software developer, I L
 
 <strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> - Arthur C. Clarke </strong>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## 💜 Tools that i use & love 
 
 ### Programming languages
@@ -72,6 +74,8 @@ Hi! You can call me eve, I'm a non-binary :rainbow_flag: software developer, I L
     <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?&logo=Insomnia&logoColor=white"></a>
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## <img src="https://camo.githubusercontent.com/33908a5751a0ca583d8f5897be494bcae1edfe59c8b88be0a50da73fee3af886/687474703a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f663436396561376236393130306630322d2e676966" width="30px" /> My streak stats
 
 <p align="center">
@@ -79,6 +83,8 @@ Hi! You can call me eve, I'm a non-binary :rainbow_flag: software developer, I L
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eveprice&theme=omni&hide_border=true"/>
   </a>
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## <img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px" /> My github stats
 
