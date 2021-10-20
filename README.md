@@ -32,7 +32,7 @@ Hi! You can call me Eve, I'm a software developer, I LOVE to create new and diff
 
 ## 💜 Tools that i use & love 
 
-### Programming languages
+### Programming Languages and Tools
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -74,6 +74,9 @@ Hi! You can call me Eve, I'm a software developer, I LOVE to create new and diff
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?&logo=Insomnia&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white"></a>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
