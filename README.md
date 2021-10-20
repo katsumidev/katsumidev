@@ -24,7 +24,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="25px"> About me
   
-Hi! You can call me eve, I'm a software developer, I LOVE to create new and different things from scratch, that's why I've chosen the development career, tech makes possible to create an infinitude of things, things that help society in every kind of way, since from entertaining to medicine, with technology EVERYTHING is possible ✨
+Hi! You can call me Eve, I'm a software developer, I LOVE to create new and different things from scratch, that's why I've chosen the development career, tech makes possible to create an infinitude of things, things that help society in every kind of way, since from entertaining to medicine, with technology EVERYTHING is possible ✨
 
 <strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> - Arthur C. Clarke </strong>
 
@@ -64,11 +64,12 @@ Hi! You can call me eve, I'm a software developer, I LOVE to create new and diff
 ### Softwares
 <p>
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+    <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
