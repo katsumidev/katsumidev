@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="25px"> About me
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="25px" height="25px"> About me
   
 Hi! You can call me Eve or Vitor, I'm a software developer, I LOVE to create new and different things from scratch, that's why I've chosen the development career, tech makes possible to create an infinitude of things, things that help society in every kind of way, since from entertaining to medicine, with technology EVERYTHING is possible ✨
 I'm obsessed with technology, maybe a little too much :p
