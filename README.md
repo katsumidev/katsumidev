@@ -11,7 +11,7 @@
     <a href="https://www.reddit.com/user/Eve-price">
     <img title="" alt="" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/vitor-silva-206391231/">
+  <a href="https://www.linkedin.com/in/mooncoded/">
     <img title="" alt="" src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://discordapp.com/users/604474810847723530">
