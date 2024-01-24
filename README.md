@@ -80,16 +80,6 @@ I'm obsessed with technology, maybe a little too much :p
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## <img src="https://camo.githubusercontent.com/33908a5751a0ca583d8f5897be494bcae1edfe59c8b88be0a50da73fee3af886/687474703a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f663436396561376236393130306630322d2e676966" width="30px" /> My streak stats
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooncoded&theme=omni&hide_border=true"/>
-  </a>
-</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 ## <img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px" height="30px" /> My github stats
 
 <details> 
@@ -104,4 +94,4 @@ I'm obsessed with technology, maybe a little too much :p
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooncoded&theme=dracula&layout=compact" />
   <br/>
 </details>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=mooncoded&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
