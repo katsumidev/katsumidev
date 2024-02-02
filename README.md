@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there, I'm <a href="https://github.com/mooncoded"> Vitor </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h3 align="center"> Hi there, I'm <a href="https://github.com/mooncoded"> Victor/Katsumi </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <p align="center">
   <img src="https://c.tenor.com/K9a4rjfk7MoAAAAC/shera-entrapta.gif">
@@ -21,7 +21,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="25px" height="25px"> About me
   
-Hi! You can call me Moon or Vitor, I'm a software developer, I LOVE to create new and different things from scratch, that's why I've chosen the development career, tech makes possible to create an infinitude of things, things that help society in every kind of way, since from entertaining to medicine, with technology EVERYTHING is possible ✨
+Hi! You can call me Katsumi or Victor, I'm a software developer, I LOVE to create new and different things from scratch, that's why I've chosen the development career, tech makes possible to create an infinitude of things, things that help society in every kind of way, since from entertaining to medicine, with technology EVERYTHING is possible ✨
 I'm obsessed with technology, maybe a little too much :p
 
 <strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> - Arthur C. Clarke </strong>
