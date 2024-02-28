@@ -60,7 +60,9 @@ Greetings! I am Moon, though Victor is just as fitting, for I navigate the realm
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white"></a>
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://github.com/mooncoded/mooncoded/blob/main/secund-divider.gif" width="70%">
+</p>
 
 ## <img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px" height="30px" /> My github stats
 
