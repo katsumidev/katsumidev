@@ -8,7 +8,7 @@ Greetings! I am Moon, though Victor is just as fitting, for I navigate the realm
 
 <strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> - Arthur C. Clarke </strong>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center"><img src="https://github.com/mooncoded/mooncoded/blob/main/git-divider.gif" width="70%" /></p>
 
 ## 📜 My Tools and code-casting spells
 
