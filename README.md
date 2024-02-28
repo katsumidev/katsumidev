@@ -1,34 +1,16 @@
-<h3 align="center"> Hi there, I'm <a href="https://github.com/mooncoded"> Victor </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aubrey&size=30&duration=3000&pause=500&color=F7B12C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Greetings%2C+My+Name+is+Moon;The+Great+Sourceror+%26+Master+of+digital+wizardry" alt="Typing SVG" /></a></p>
 
 <p align="center">
-  <img src="https://c.tenor.com/K9a4rjfk7MoAAAAC/shera-entrapta.gif">
+  <img src="https://github.com/mooncoded/mooncoded/blob/main/banner_git.gif">
 </p>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/95jq4fkiw7l9j4jecvp22fpzc">
-    <img title="" alt="" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/mooncoded/">
-    <img title="" alt="" src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://discordapp.com/users/604474810847723530">
-    <img title="" alt="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-    <a href="https://t.me/eve_price">
-    <img title="" alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</p>
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="25px" height="25px"> About me
-  
-Hi! You can call me Victor, I'm a software developer, I LOVE to create new and different things from scratch, that's why I've chosen the development career, tech makes possible to create an infinitude of things, things that help society in every kind of way, since from entertaining to medicine, with technology EVERYTHING is possible ✨
-I'm obsessed with technology, maybe a little too much :p
+Greetings! I am Moon, though Victor is just as fitting, for I navigate the realms of software development with the finesse of a seasoned Sourcerer. Through lines of code, I conjure solutions, sculpting digital landscapes with a touch of magic and a dash of logic. Welcome to the realm where technology meets enchantment, where Moon and Victor unite in the pursuit of innovation.
 
 <strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> - Arthur C. Clarke </strong>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 💜 Tools that i use & love 
+## 📜 My Tools and code-casting spells
 
 ### Programming Languages and Tools
 <p>
