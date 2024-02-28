@@ -17,7 +17,7 @@ Greetings! I am Moon, though Victor is just as fitting, for I navigate the realm
 <p align="center"><img src="https://github.com/mooncoded/mooncoded/blob/main/git-divider.gif" width="70%" /></p>
 </div>
 
-<h2 align="center">📜 My Tools and code-casting spells</h2>
+<h3 align="center">📜 My artifacts and code-casting spells</h3>
 
 <div align="center">
 <br>
