@@ -1,4 +1,4 @@
-<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aubrey&size=30&duration=3000&pause=500&color=F7B12C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Greetings%2C+My+Name+is+Moon;The+Great+Sourceror+%26+Master+of+digital+wizardry" alt="Typing SVG" /></a></p>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aubrey&size=30&duration=3000&pause=500&color=F7B12C&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Greetings%2C+My+Name+is+Moon;The+Great+Sourceror+%26+Master+of+digital+wizardry" alt="Typing SVG" /></a></p>
 
 <p align="center">
   <img src="https://github.com/mooncoded/mooncoded/blob/main/banner_git.gif">
