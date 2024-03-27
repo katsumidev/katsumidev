@@ -12,7 +12,6 @@ Greetings! I am Katsumi, though Victor is just as fitting, for I navigate the re
 
 <br>
 
-<p align="center"><img src="https://github.com/mooncoded/mooncoded/blob/main/git-divider.gif" width="70%" /></p>
 </div>
 
 <h3 align="center">📜 My artifacts and code-casting spells</h3>
@@ -46,25 +45,14 @@ Greetings! I am Katsumi, though Victor is just as fitting, for I navigate the re
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/mooncoded/mooncoded/blob/main/secund-divider.gif" width="70%">
-</p>
-
-
-<br>
-
 ## <img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px" height="30px" /> My github stats
 
-<details> 
+<p>
   <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=mooncoded&show_icons=true&theme=omni" />
-  <br/>
-</details>
-<details> 
+      <img src="https://github-readme-stats.vercel.app/api?username=mooncoded&show_icons=true&title_color=E90803&icon_color=E90803&bg_color=000&text_color=fff&layout=compact" />
+  
   <summary>⚡ Most Used Languages</summary>
-  <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooncoded&theme=dracula&layout=compact" />
-  <br/>
-</details>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooncoded&title_color=E90803&icon_color=E90803&bg_color=000&text_color=fff&layout=compact" />
+</p>
+ 
 
