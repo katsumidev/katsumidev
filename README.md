@@ -14,7 +14,7 @@ Greetings! I am Katsumi, though Victor is just as fitting, for I navigate the re
 
 </div>
 
-<h3 align="center">📜 My artifacts and code-casting spells</h3>
+<h3 align="center">🌹 My artifacts and code-casting spells</h3>
 
 <div align="center">
 <br>
