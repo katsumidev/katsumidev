@@ -50,10 +50,10 @@ Greetings! I am Katsumi, though Victor is just as fitting, for I navigate the re
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mooncoded&show_icons=true&title_color=E90803&icon_color=E90803&bg_color=000&text_color=fff&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api?username=katsumidev&show_icons=true&title_color=E90803&icon_color=E90803&bg_color=000&text_color=fff&layout=compact" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooncoded&title_color=E90803&icon_color=E90803&bg_color=000&text_color=fff&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsumidev&title_color=E90803&icon_color=E90803&bg_color=000&text_color=fff&layout=compact" />
     </td>
   </tr>
 </table>
