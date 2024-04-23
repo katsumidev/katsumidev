@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mooncoded/mooncoded/blob/main/talking_card.png">
+  <img src="https://github.com/mooncoded/mooncoded/blob/main/dialogue-box.png">
 </p>
 
 <div align="center">
