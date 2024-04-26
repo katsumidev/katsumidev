@@ -45,7 +45,7 @@ Though Victor is just as fitting, for I navigate the realms of software developm
 
 <br>
 
-<h2 align="center"><img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px" height="30px" />About Me</h2> 
+<h2 align="center"><img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px" height="30px" />My Git Palace</h2> 
 
 <p align="center">
   <img src="https://github.com/mooncoded/mooncoded/blob/main/final-dialogue.gif">
